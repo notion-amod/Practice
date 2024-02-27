@@ -1,4 +1,4 @@
-<h1 align="center"> C code for Addition</h1>
+<h1 align="center"> C code for Addition and Substraction</h1>
 <p align="center"><i> Written by Amod @notionext</i></p>
 <div align="center">
   <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
